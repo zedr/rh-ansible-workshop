@@ -3,4 +3,4 @@ Participants.
 
 ## 2022-09-15
  - Rigel Di Scala <rigel@redhat.com>
- - Cesare Placanica
+ - Cesare Placanica <ceplacan@redhat.com>
