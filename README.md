@@ -9,3 +9,4 @@ Participants.
  - Gaurav Talreja <gauravtalreja1@gmail.com>
  - Adithya Krishna <adikrish@redhat.com>
  - Gabriela Mejia <example@redhat.com>
+ - Michael Phillips <miphilli@redhat.com>
